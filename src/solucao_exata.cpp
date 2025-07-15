@@ -1,5 +1,4 @@
 #include "tabuleiro.hpp"
-#include "solucao_exata.hpp"
 #include <queue>
 #include <vector>
 #include <iostream>
